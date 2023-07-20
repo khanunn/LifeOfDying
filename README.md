@@ -14,12 +14,12 @@ https://thanetsak.itch.io/life-of-dying
 
 2.ไฟล์ที่ใช้เป็นเครื่องมือของผู้เล่น(Weapon)
   - 'Bullet.cs'
+  - 'Gun.cs'
 
 
 3.ไฟล์ที่ใช้ควบคุม สถานะ,ท่าทาง,การเคลื่อนไหว ของตัวละครผู้เล่น(Player)
   - 'CharacterAim.cs'
   - 'GetObject.cs'
-  - 'Gun.cs'
   - 'ThirdPersonShooterController.cs'
 
 
